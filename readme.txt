@@ -1,4 +1,6 @@
-The zip file contains custom recording software and custom codes including output files to record and extract the neural signal data using a developed wireless system. 
+This is the code and software in Neural probe system for behavioral neuropharmacology by bi-directional wireless drug delivery and electrophysiology in socially interacting mice (Yoon and Shin et. al. 2022)
+
+This file contains custom recording software and custom codes including output files to record and extract the neural signal data using a developed wireless system. 
 
 1. System requirements
   - Operating system: Windows 10
