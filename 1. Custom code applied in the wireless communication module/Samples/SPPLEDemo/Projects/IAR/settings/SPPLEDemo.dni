@@ -1,0 +1,71 @@
+[DebugChecksum]
+Checksum=-1659022560
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[EEM State Storage]
+Buffer=BAAAAAAAAAAAAAAAAAAAAAAA
+[EEM Sequencer]
+Buffer=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[EEM Cycle Counter 0]
+Counter0=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[EEM Cycle Counter 1]
+Counter1=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[DataSample]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Count=0
+[FET]
+Clock mode=46
+Extended Clock mode=1039
+Secure Password=
+Extended Clock Control Enable=1
+Advanced Extended Clock Control=0
+Emulation mode=0
+Free running=0
+Shutting Down=3
+[Memory Dump]
+Start address=
+Lenghth=
+Address info=0
+Format=0
+Dump registers=0
+PC=0
+SP=0
+SR=0
+all registers=0
+File name=
+[Aliases]
+A0=_ "C:\TI\Connectivity\CC256X BT\CC256x MSP430 Bluetopia SDK(for test)\v1.5 R2\160829003 RHD-SPI-MCU-BL-UART test (after debugging)\Hardware\MSP430_EXP5438\HAL.c" ""
+A1=_ "C:\TI\Connectivity\CC256X BT\CC256x MSP430 Bluetopia SDK(for test)\v1.5 R2\161025120 two channel Sampling\Bluetopia\btpskrnl\BTPSKRNL.c" "D:\TI\Connectivity\CC256X BT\BT Project(ver.TX2)-TXD,server\TX2.01 Automation\161229001 Automatically initialization\Bluetopia\btpskrnl\BTPSKRNL.c"
+A2=_ "C:\TI\Connectivity\CC256X BT\CC256x MSP430 Bluetopia SDK(for test)\v1.5 R2\161025121 4 channel sampling in one time to reduce time interval\Samples\SPPLEDemo\SPPLEDemo.c" "D:\TI\Connectivity\CC256X BT\BT Project(ver.TX2)-TXD,server\TX2.01 Automation\161229001 Automatically initialization\Samples\SPPLEDemo\SPPLEDemo.c"
+A3=_ "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\TX2.01 Automation\161229001 Automatically initialization\Bluetopia\btpskrnl\BTPSKRNL.c" "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\TX2.01 Automation\161229002 Automatically start to write after connecting\Bluetopia\btpskrnl\BTPSKRNL.c"
+A4=_ "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\TX2.01 Automation\161229002 Automatically start to write after connecting\Bluetopia\btpskrnl\BTPSKRNL.c" "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\v1.2 R2\161229002 Automatically start to write after connecting\Bluetopia\btpskrnl\BTPSKRNL.c"
+A5=_ "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\TX2.01 Automation\170120001 ADC pin resettings for transmitter device\Samples\SPPLEDemo\SPPLEDemo.c" "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\TX2.01 Automation\170120001 ADC pin resettings for transmitter device (main)\Samples\SPPLEDemo\SPPLEDemo.c"
+A6=_ "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\TX2.01 Automation\170120001 Transmitter pin rematch (only ADC check)\Bluetopia\btpskrnl\BTPSKRNL.c" "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\TX2.01 Automation\170216002 2 channel and 16-bit resolution transmitting system (main2)\Bluetopia\btpskrnl\BTPSKRNL.c"
+A7=_ "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\TX2.04 Noise reducing\170312001 2 ch sampling for 540 Hz noise hypothesis checking\Bluetopia\btpskrnl\BTPSKRNL.c" "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\TX2.04 Noise reducing\170312001 2 ch sampling for checking intan noise theory\Bluetopia\btpskrnl\BTPSKRNL.c"
+A8=_ "D:\TI\Connectivity\CC256X BT\BT Project(ver TX3)-Spike detection algorithm\TX3.01 Packet activation\10416001 Add time infomation\Bluetopia\btpskrnl\BTPSKRNL.c" "D:\TI\Connectivity\CC256X BT\BT Project(ver TX3)-Spike detection algorithm\TX3.01 Packet activation\170422001 data size change\Bluetopia\btpskrnl\BTPSKRNL.c"
+A9=_ "D:\TI\Connectivity\CC256X BT\BT Project(ver TX3)-Spike detection algorithm\Tx3.05 Another Porting\170717001 DMA adoption for UART\Hardware\MSP430_EXP5438\HAL.c" "D:\TI\Connectivity\CC256X BT\BT Project(ver TX3)-Spike detection algorithm\Tx3.05 Another Porting\170717003 increasement in sampling channels\Hardware\MSP430_EXP5438\HAL.c"
+A10=_ "D:\TI\Connectivity\CC256X BT\BT Project(ver.TX2)-TXD,server\TX2.01 Automation\161229001 Automatically initialization\Bluetopia\btpskrnl\BTPSKRNL.c" "D:\TI\Connectivity\CC256X BT\BT Project(ver TX2)-TXD server\TX2.01 Automation\161229001 Automatically initialization\Bluetopia\btpskrnl\BTPSKRNL.c"
+Count=11
+SuppressDialog=1

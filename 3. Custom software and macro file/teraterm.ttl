@@ -1,0 +1,7 @@
+sendln 'client'
+sendln 'setbaudrate 2000000'
+wait 'Success.'
+sendln 'setconfigparams 329 987 2303'
+wait 'BufferSize'
+sendln 'displayrawmodedata'
+sendln 'inquiry'
